@@ -16,6 +16,7 @@ html, body {
 }
 .navbar-nav {
   flex-direction: row;
+  padding: 30px 0px 30px 0px;
 }
 .save-note {
   color: white;
